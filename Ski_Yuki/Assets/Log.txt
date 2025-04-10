@@ -1,0 +1,388 @@
+Log 
+
+
+Nome: Luan
+Tempo: 00:01:21:712
+Erros2
+Nome: Marizero
+Tempo: 00:01:14:316
+Erros1
+Nome: luanzera
+Tempo: 00:01:01:625
+Erros: 1
+Nome: 
+Tempo: 00:01:03:341
+Erros: 1
+Nome: 
+Tempo: 00:01:20:382
+Erros: 2
+Nome: 
+Tempo: 00:00:55:676
+Erros: 1
+Nome: 
+Tempo: 00:01:24:364
+Erros: 5
+Nome: 
+Tempo: 00:01:17:296
+Erros: 1
+Nome: 
+Tempo: 00:01:05:324
+Erros: 4
+Nome: 
+Tempo: 00:00:54:137
+Erros: 1
+Nome: 
+Tempo: 00:01:06:645
+Erros: 2
+Nome: 
+Tempo: 00:01:19:341
+Erros: 5
+Nome: 
+Tempo: 00:01:11:122
+Erros: 3
+Nome: 
+Tempo: 00:00:58:041
+Erros: 2
+Nome: 
+Tempo: 00:00:52:500
+Erros: 0
+Nome: 
+Tempo: 00:00:56:222
+Erros: 2
+Nome: 
+Tempo: 00:01:37:727
+Erros: 6
+Nome: 
+Tempo: 00:01:23:880
+Erros: 6
+Nome: 
+Tempo: 00:01:20:296
+Erros: 8
+Nome: 
+Tempo: 00:01:00:244
+Erros: 3
+Nome: 
+Tempo: 00:01:06:933
+Erros: 7
+Nome: 
+Tempo: 00:00:57:039
+Erros: 4
+Nome: 
+Tempo: 00:01:04:046
+Erros: 7
+Nome: 
+Tempo: 00:03:19:556
+Erros: 19
+Nome: 
+Tempo: 00:00:49:826
+Erros: 1
+Nome: 
+Tempo: 00:02:27:889
+Erros: 18
+Nome: 
+Tempo: 00:01:23:488
+Erros: 2
+Nome: 
+Tempo: 00:01:19:946
+Erros: 7
+Nome: 
+Tempo: 00:01:22:460
+Erros: 2
+Nome: 
+Tempo: 00:01:22:789
+Erros: 6
+Nome: 
+Tempo: 00:01:49:521
+Erros: 4
+Nome: 
+Tempo: 00:01:00:199
+Erros: 1
+Nome: 
+Tempo: 00:01:46:360
+Erros: 3
+Nome: 
+Tempo: 00:01:47:523
+Erros: 3
+Nome: 
+Tempo: 00:01:04:619
+Erros: 3
+Nome: 
+Tempo: 00:01:45:650
+Erros: 12
+Nome: 
+Tempo: 00:01:16:209
+Erros: 2
+Nome: 
+Tempo: 00:01:10:007
+Erros: 2
+Nome: 
+Tempo: 00:00:58:546
+Erros: 4
+Nome: 
+Tempo: 00:00:49:921
+Erros: 0
+Nome: 
+Tempo: 00:00:54:002
+Erros: 0
+Nome: 
+Tempo: 00:00:55:029
+Erros: 0
+Nome: 
+Tempo: 00:01:12:785
+Erros: 1
+Nome: 
+Tempo: 00:01:12:353
+Erros: 1
+Nome: 
+Tempo: 00:02:26:388
+Erros: 12
+Nome: 
+Tempo: 00:00:53:628
+Erros: 0
+Nome: 
+Tempo: 00:01:09:753
+Erros: 0
+Nome: 
+Tempo: 00:01:09:190
+Erros: 0
+Nome: 
+Tempo: 00:01:21:948
+Erros: 1
+Nome: 
+Tempo: 00:01:55:666
+Erros: 5
+Nome: Bruno
+Tempo: 00:00:52:407
+Erros: 1
+Nome: Bruno
+Tempo: 00:00:12:167
+Erros:  9
+Data: 2022-08-08_16:03:52
+Nome: Bruno
+Tempo: 00:00:09:500
+Erros:  6
+Data: 2022-08-08_16:16:20
+Nome: Bruno
+Tempo: 00:00:09:668
+Erros:  6
+Data: 2022-08-08_16:17:21
+Nome: Bruno
+Tempo: 00:00:09:099
+Erros:  7
+Data: 2022-08-08_16:18:26
+Nome: Mariana Palma
+Tempo: 
+Erros:  0
+Data: 2022-10-06_11:21:48
+Nome: Mariana Palma
+Tempo: 00:00:34:529
+Erros:  0
+Data: 2022-10-06_11:49:46
+Nome: 
+Tempo: 00:00:34:781
+Erros:  0
+Data: 2022-10-11_13:49:09
+Nome: 
+Tempo: 00:00:39:155
+Erros:  1
+Data: 2022-10-11_13:52:29
+Nome: 
+Tempo: 00:01:01:904
+Erros:  10
+Data: 2022-12-13_11:17:35
+Nome: 
+Tempo: 00:00:37:959
+Erros:  6
+Data: 2022-12-13_11:18:53
+Nome: 
+Tempo: 00:00:17:287
+Erros:  0
+Data: 2022-12-13_11:40:05
+Nome: 
+Tempo: 00:00:22:420
+Erros:  1
+Data: 2022-12-13_11:41:13
+Nome: 
+Tempo: 00:00:30:950
+Erros:  2
+Data: 2022-12-13_11:42:03
+Nome: 
+Tempo: 00:00:29:151
+Erros:  1
+Data: 2022-12-13_11:43:04
+Nome: 
+Tempo: 00:00:33:065
+Erros:  2
+Data: 2022-12-13_11:45:23
+Nome: 
+Tempo: 00:00:31:264
+Erros:  4
+Data: 2022-12-13_11:49:14
+Nome: 
+Tempo: 00:00:26:254
+Erros:  2
+Data: 2023-01-23_15:32:00
+Nome: 
+Tempo: 00:00:17:320
+Erros:  0
+Data: 2023-01-23_15:32:38
+Nome: 
+Tempo: 00:00:23:063
+Erros:  2
+Data: 2023-01-23_15:34:43
+Nome: 
+Tempo: 00:00:22:667
+Erros:  1
+Data: 2023-01-23_16:10:38
+Nome: 
+Tempo: 00:00:34:356
+Erros:  4
+Data: 2023-01-23_16:40:57
+Nome: 
+Tempo: 00:00:31:313
+Erros:  2
+Data: 2023-01-23_16:44:33
+Nome: 
+Tempo: 00:00:39:512
+Erros:  2
+Data: 2023-01-24_16:09:13
+Nome: 
+Tempo: 00:00:33:857
+Erros:  6
+Data: 2023-01-25_15:28:11
+Nome: 
+Tempo: 00:01:00:716
+Erros:  6
+Data: 2023-01-25_15:35:15
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-02_17:14:08
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-02_17:14:22
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:50:24
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:50:41
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:50:59
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:51:38
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:53:17
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:54:01
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:55:41
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:56:15
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:58:42
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:59:42
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_14:59:46
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:00:46
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:01:58
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:03:09
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:03:21
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:48:40
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:48:48
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:49:29
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-15_15:49:47
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-16_19:13:36
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-16_19:16:46
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-16_19:20:25
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-16_19:24:13
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-02-16_19:26:15
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:07:35
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:07:49
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:09:41
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:14:02
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:17:53
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:18:51
+Nome: 
+Tempo: 00:00:00
+Erros:  0
+Data: 2023-03-30_12:21:18
